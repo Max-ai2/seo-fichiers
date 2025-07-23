@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://raw.githubusercontent.com/Max-ai2/seo-fichiers/main/sitemap.xml
+
